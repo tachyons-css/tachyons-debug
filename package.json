@@ -1,6 +1,6 @@
 {
   "name": "tachyons-debug",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "style": "debug.css",
   "homepage": "http://mrmrs.io/tachyons-debug",
   "description": "Performance based sass module.",
