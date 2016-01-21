@@ -1,18 +1,17 @@
 {
   "name": "tachyons-debug",
-  "version": "1.1.0",
-  "style": "tachyons-debug.css",
-  "homepage": "http://github.com/tachyons-css/tachyons-debug",
+  "version": "1.1.1",
+  "style": "src/tachyons-debug.css",
   "description": "Performance based css module.",
-  "keywords": [],
-  "repository": {
-    "type": "git",
-    "url": "http://github.com/tachyons-css/tachyons-debug.git"
-  },
-  "bugs": {
-    "url": "https://github.com/tachyons-css/tachyons-debug/issues",
-    "email": "hi@mrmrs.cc"
-  },
+  "keywords": [
+    "tachyons",
+    "tachyons-css"
+  ],
+  "files": [
+    "src",
+    "css"
+  ],
+  "repository": "tachyons-css/tachyons-debug",
   "author": {
     "name": "mrmrs",
     "email": "hi@mrmrs.cc",
