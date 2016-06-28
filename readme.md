@@ -1,4 +1,4 @@
-# tachyons-debug 1.1.1
+# tachyons-debug 1.1.3
 
 Performance based css module.
 
