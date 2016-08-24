@@ -1,4 +1,4 @@
-# tachyons-debug 1.1.3
+# tachyons-debug 1.1.6
 
 Performance based css module.
 
@@ -16,10 +16,20 @@ bytes | selectors | declarations
 npm install --save-dev tachyons-debug
 ```
 
+Learn more about using css installed with npm:
+* https://webpack.github.io/docs/stylesheets.html
+* https://github.com/defunctzombie/npm-css
+
 #### With Git
 
+http:
 ```
 git clone https://github.com/tachyons-css/tachyons-debug
+```
+
+ssh:
+```
+git clone git@github.com:tachyons-css/tachyons-debug.git
 ```
 
 ## Usage
@@ -41,6 +51,14 @@ $ tachyons path/to/css-file.css > dist/t.css
 
 #### Using the CSS
 
+##### CDN
+The easiest and most simple way to use the css is to use the cdn hosted version. Include it in the head of your html with:
+
+```
+<link rel="stylesheet" href="http://npmcdn.com/tachyons-debug@1.1.6/css/tachyons-debug.min.css" />
+```
+
+##### Locally
 The built CSS is located in the `css` directory. It contains an unminified and minified version.
 You can either cut and paste that css or link to it directly in your html.
 
@@ -172,5 +190,5 @@ wbr { outline: 1px solid #DB175B !important; }
 
 ## License
 
-MIT
+ISC
 
