@@ -1,6 +1,6 @@
 {
   "name": "tachyons-debug",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "style": "src/tachyons-debug.css",
   "description": "Performance based css module.",
   "keywords": [
